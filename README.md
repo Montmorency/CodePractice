@@ -3,5 +3,5 @@ some templates for common data structures. The problems/templates
 mainly come from HackerRank questions and from the Algorithm Design 
 Manual by Steven Skiena.
 
-the timing directory contains some time it scripts to test the
-relative efficiency of different
+The timing directory contains some timing scripts to test the
+relative efficiency of different operations in python.
